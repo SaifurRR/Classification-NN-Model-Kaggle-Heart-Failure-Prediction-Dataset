@@ -25,3 +25,7 @@ Batch Size: 16
 Loss: Categorical Crossentropy
 
 Metric: Precision, Recall, F1-score, Accuracy
+
+## Output
+
+![ALT TEXT](https://github.com/SaifurRR/Classification-NN-Model-Kaggle-Heart-Failure-Prediction-Dataset/blob/main/Categorical_crossentropy_CVD.jpeg)
