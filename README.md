@@ -28,6 +28,6 @@ Metric: Precision, Recall, F1-score, Accuracy
 
 ## Output
 
-#### Classification Report
+### Classification Report
 
 ![ALT TEXT](https://github.com/SaifurRR/Classification-NN-Model-Kaggle-Heart-Failure-Prediction-Dataset/blob/main/Categorical_crossentropy_CVD.jpeg)
